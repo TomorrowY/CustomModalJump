@@ -4,4 +4,4 @@
 cocopds 导入
 pod 'CustomModal', '~> 0.0.1'
 
-使用参考Demo： https://github.com/TomorrowY/CustomPopDemo
+使用参考Demo

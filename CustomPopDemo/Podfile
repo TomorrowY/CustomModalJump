@@ -1,0 +1,7 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CustomPop' do
+  pod 'CustomModal', '~> 0.0.1'
+
+end

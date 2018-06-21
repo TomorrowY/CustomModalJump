@@ -1,0 +1,16 @@
+PODS:
+  - CustomModal (0.0.1)
+
+DEPENDENCIES:
+  - CustomModal (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CustomModal
+
+SPEC CHECKSUMS:
+  CustomModal: 567047cc024665c48e24cc4b04f9cf60f63eb029
+
+PODFILE CHECKSUM: 65f8d5cfb12500df7bc0611beee912ded8fee6da
+
+COCOAPODS: 1.5.3
